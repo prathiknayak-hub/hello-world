@@ -1,2 +1,6 @@
 # hello-world
-Just a repository
+
+
+Hi humans!
+
+I like Artificial intelligence
